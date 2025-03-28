@@ -1,0 +1,42 @@
+
+
+Create a professional-grade website for learning Digital Image Processing (DIP) practicals. The website should meet the following specifications:
+
+ 1. General Requirements
+Use HTML, CSS, Bootstrap (via CDN), and ensure the website looks modern and visually appealing.
+The website must have a dark mode with black backgrounds and appropriate color contrasts.
+Include a collapsible sidebar that lists all the practicals, named appropriately (e.g., "Edge Detection: Prewitt", "Dilation and Erosion").
+The sidebar should allow easy navigation to each practical.
+
+ 2. Content
+Each practical page should contain:
+  The title of the practical.
+  The exact content from the provided PDF (do not modify or paraphrase).
+  A section with code snippets that have a "Copy" button for copying the code directly.
+  Proper headings and formatting for readability.
+
+ 3. Design
+Use a clean and professional layout that looks like it was created by someone with 10+ years of web development experience.
+Highlight the code sections using a terminal-like theme or syntax highlighting.
+Ensure responsive design so that the website works well on desktops, tablets, and mobiles.
+  
+ 4. Sidebar Functionality
+The sidebar should:
+  Be expandable and collapsible.
+  Show all the practicals at a glance.
+  Allow users to search practicals by keywords (e.g., "Prewitt" or "Edge Detection").
+
+ 5. Dark Mode
+Implement a toggle button for switching between dark and light modes.
+
+ 6. Technical Features
+Provide smooth animations when interacting with the sidebar or toggling modes.
+Include clear buttons for navigation and user interaction.
+
+ 7. Deployment
+The entire website should be self-contained and ready for deployment.
+
+ 8. Additional Notes
+Do not alter the content of the PDF. Ensure that the uploaded PDF content appears exactly as it is, formatted neatly for the web.
+Maintain consistency across all pages.
+Add a small footer with basic information like "© 2025 Digital Image Processing Practical Guide."
